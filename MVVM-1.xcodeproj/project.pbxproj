@@ -14,6 +14,7 @@
 		2472370426C1250A00B192B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2472370326C1250A00B192B0 /* Assets.xcassets */; };
 		2472370726C1250A00B192B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2472370526C1250A00B192B0 /* LaunchScreen.storyboard */; };
 		2472370F26C1252100B192B0 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2472370E26C1252000B192B0 /* Profile.swift */; };
+		2472371126C1296800B192B0 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2472371026C1296800B192B0 /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2472370626C1250A00B192B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2472370826C1250A00B192B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2472370E26C1252000B192B0 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		2472371026C1296800B192B0 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				247236FA26C1250500B192B0 /* AppDelegate.swift */,
 				247236FC26C1250500B192B0 /* SceneDelegate.swift */,
 				247236FE26C1250500B192B0 /* ViewController.swift */,
+				2472371026C1296800B192B0 /* ViewModel.swift */,
 				2472370E26C1252000B192B0 /* Profile.swift */,
 				2472370026C1250500B192B0 /* Main.storyboard */,
 				2472370326C1250A00B192B0 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2472371126C1296800B192B0 /* ViewModel.swift in Sources */,
 				247236FF26C1250500B192B0 /* ViewController.swift in Sources */,
 				2472370F26C1252100B192B0 /* Profile.swift in Sources */,
 				247236FB26C1250500B192B0 /* AppDelegate.swift in Sources */,
